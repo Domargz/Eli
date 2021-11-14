@@ -10,6 +10,5 @@
     <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
     <br />
     <asp:Button ID="ButtonIniciarSesion" runat="server" Text="Ingresar" />
-    <asp:Button ID="Button2" runat="server" Text="Button" />
-
+    
 </asp:Content>
